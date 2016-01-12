@@ -11,5 +11,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="hadoop-core-0.20.205.0" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
